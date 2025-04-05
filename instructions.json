@@ -1,0 +1,9 @@
+{"Goal": "Find the exit to the bunker while managing your supplies.", 
+"Commands": "input the letter in the parenthesis to choose a command", 
+"(m) move room": "This command allows the player to move from room to room", 
+"(s) search room": "This command collects the supplies in a room", 
+"(u) use Med-pack": "This command uses one Med-pack and subsequently restores one hp", 
+"(i) inventory": "Allows you to check what supplies you have (ex: Med-pack)", 
+"(v) vending machine": "When in a certain room, this command will allow you to enter the vending machine where you can trade for many different items", 
+"(q) quit game": "This command allows you to quit the game at any time", 
+"(h) help": "This command allows you to see the instructions again"}
